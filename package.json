@@ -1,10 +1,10 @@
 {
-  "name": "falsework",
-  "version": "1.0.2",
+  "name": "react-env-cli",
+  "version": "1.0.0",
   "description": "脚手架搭建",
   "main": "lib/index.js",
   "bin": {
-    "falsework": "bin/index.js"
+    "react-env": "bin/index.js"
   },
   "files": [
     "bin",
@@ -17,6 +17,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cross-spawn": "^7.0.3",
     "download-git-repo": "^1.1.0"
   }
 }
