@@ -1,10 +1,10 @@
 {
-  "name": "react-env-cli",
+  "name": "react-cli-1",
   "version": "1.0.0",
   "description": "脚手架搭建",
   "main": "lib/index.js",
   "bin": {
-    "react-env": "bin/index.js"
+    "react-cli": "bin/index.js"
   },
   "files": [
     "bin",
